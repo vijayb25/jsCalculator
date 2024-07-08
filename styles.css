@@ -57,7 +57,7 @@ button{
     font-family: var(--bodyFont);
 
     &:hover{
-        background: #4b4a4a5d;
+        background: #252525;
     }
 
     &:active{
